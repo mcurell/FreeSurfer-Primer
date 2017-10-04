@@ -21,7 +21,7 @@ git clone https://github.com/$(mygitun)/FreeSurfer-Primer
 #### 4. Make Dependencies for each Subject
 The FreeSurfer-Primer repository contains _only_ the final surfaces and volumes for each subject. All dependencies must be made before recon-all can be run on any subject. For each subject you must execute the following command
 ```bash
-export SUBJECTS_DIR=$HOME/FreeSurfer-Primer
+export SUBJECTS_DIR=$HOME/FreeSurfer-Primer/mris
 recon-all -s $subject -make all -qcache
 ```
 
