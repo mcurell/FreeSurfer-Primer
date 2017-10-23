@@ -1,13 +1,13 @@
 ------------------------------
 SUBJECT sub-01
-START_TIME Fri Jul 7 15:54:32 EDT 2017
-END_TIME Fri Jul 7 15:59:32 EDT 2017
-RUNTIME_HOURS 0.083
-USER shad
-HOST trash-can.local
+START_TIME Tue Oct 10 14:57:16 EDT 2017
+END_TIME Tue Oct 10 15:02:33 EDT 2017
+RUNTIME_HOURS 0.088
+USER macy
+HOST Macys-iMac.local
 PROCESSOR x86_64
 OS Darwin
-UNAME Darwin trash-can.local 15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64 x86_64 i386 MacPro6,1 Darwin
+UNAME Darwin Macys-iMac.local 16.7.0 Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64 x86_64 i386 iMac16,2 Darwin
 VERSION $Id: FreeSurferEnv.csh,v 1.89 2016/06/09 14:54:31 zkaufman Exp $
-CMDPATH /Volumes/CFMI-CFS/opt/fs6/bin/recon-all
-CMDARGS -s /Volumes/CFMI-CFS/sync/ADS/data/mri/FreeSurfer-Training-Data/sub-01 -hemi rh -balabels
+CMDPATH /Applications/freesurfer/bin/recon-all
+CMDARGS -s /Users/macy/Documents/Github/FreeSurfer-Primer/mris/sub-01 -hemi rh -balabels

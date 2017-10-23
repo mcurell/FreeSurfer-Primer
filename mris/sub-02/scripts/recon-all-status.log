@@ -394,3 +394,442 @@ status file for recon-all
 Fri Jul  7 15:30:03 EDT 2017
 #@# BA_exvivo Labels rh Fri Jul  7 15:30:03 EDT 2017
 recon-all -s sub-02 finished without error at Fri Jul  7 15:35:12 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:02:34 EDT 2017
+#@# MotionCor Tue Oct 10 15:02:34 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 15:02:42 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:02:43 EDT 2017
+#@# Talairach Tue Oct 10 15:02:43 EDT 2017
+#@# Talairach Failure Detection Tue Oct 10 15:04:10 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 15:04:11 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:04:11 EDT 2017
+#@# Nu Intensity Correction Tue Oct 10 15:04:11 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 15:06:02 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:06:03 EDT 2017
+#@# Intensity Normalization Tue Oct 10 15:06:03 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 15:08:19 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:08:20 EDT 2017
+#@# Skull Stripping Tue Oct 10 15:08:20 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 15:08:45 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:08:45 EDT 2017
+#@# EM Registration Tue Oct 10 15:08:45 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 15:17:27 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:17:27 EDT 2017
+#@# CA Normalize Tue Oct 10 15:17:27 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 15:18:52 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 15:18:53 EDT 2017
+#@# CA Reg Tue Oct 10 15:18:53 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 17:18:48 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 17:18:50 EDT 2017
+#@# SubCort Seg Tue Oct 10 17:18:50 EDT 2017
+#@# Merge ASeg Tue Oct 10 18:10:13 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:10:13 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:10:13 EDT 2017
+#@# Intensity Normalization2 Tue Oct 10 18:10:13 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:13:21 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:13:21 EDT 2017
+#@# Mask BFS Tue Oct 10 18:13:21 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:13:23 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:13:23 EDT 2017
+#@# WM Segmentation Tue Oct 10 18:13:24 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:15:48 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:15:48 EDT 2017
+#@# Fill Tue Oct 10 18:15:48 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:16:25 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:16:26 EDT 2017
+#@# Tessellate lh Tue Oct 10 18:16:26 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:16:31 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:16:32 EDT 2017
+#@# Tessellate rh Tue Oct 10 18:16:32 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:16:37 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:16:37 EDT 2017
+#@# Smooth1 lh Tue Oct 10 18:16:37 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:16:45 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:16:45 EDT 2017
+#@# Smooth1 rh Tue Oct 10 18:16:45 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:16:54 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:16:54 EDT 2017
+#@# Inflation1 lh Tue Oct 10 18:16:54 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:17:23 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:17:24 EDT 2017
+#@# Inflation1 rh Tue Oct 10 18:17:24 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:17:54 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:17:54 EDT 2017
+#@# QSphere lh Tue Oct 10 18:17:54 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:20:44 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:20:44 EDT 2017
+#@# QSphere rh Tue Oct 10 18:20:44 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:23:31 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:23:31 EDT 2017
+#@# Fix Topology Copy lh Tue Oct 10 18:23:31 EDT 2017
+#@# Fix Topology lh Tue Oct 10 18:23:31 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 18:54:19 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 18:54:20 EDT 2017
+#@# Fix Topology Copy rh Tue Oct 10 18:54:20 EDT 2017
+#@# Fix Topology rh Tue Oct 10 18:54:21 EDT 2017
+recon-all -s sub-02 finished without error at Tue Oct 10 19:41:59 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Oct 10 19:41:59 EDT 2017
+#@# Make White Surf lh Tue Oct 10 19:41:59 EDT 2017
+recon-all -s sub-02 finished without error at Wed Oct 11 07:57:07 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Wed Oct 11 07:57:07 EDT 2017
+#@# Make White Surf rh Wed Oct 11 07:57:07 EDT 2017
+recon-all -s sub-02 finished without error at Wed Oct 11 10:20:33 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Wed Oct 11 10:20:33 EDT 2017
+#@# Smooth2 lh Wed Oct 11 10:20:34 EDT 2017
+recon-all -s sub-02 finished without error at Wed Oct 11 10:20:41 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Wed Oct 11 10:20:41 EDT 2017
+#@# Inflation2 lh Wed Oct 11 10:20:41 EDT 2017
+recon-all -s sub-02 finished without error at Wed Oct 11 10:21:10 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Wed Oct 11 10:21:10 EDT 2017
+#@# Sphere lh Wed Oct 11 10:21:10 EDT 2017
+recon-all -s sub-02 finished without error at Wed Oct 11 10:54:35 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Wed Oct 11 10:54:36 EDT 2017
+#@# Surf Reg lh Wed Oct 11 10:54:36 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 07:19:28 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 07:19:28 EDT 2017
+#@# Cortical Parc lh Thu Oct 12 07:19:29 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 08:19:44 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 08:19:45 EDT 2017
+#@# Make Pial Surf lh Thu Oct 12 08:19:45 EDT 2017
+#@# Surf Volume lh Thu Oct 12 10:51:48 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 10:51:52 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 10:51:53 EDT 2017
+#@# Surf Volume lh Thu Oct 12 10:51:53 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 10:51:56 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 10:51:57 EDT 2017
+#@# Smooth2 rh Thu Oct 12 10:51:57 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 10:52:05 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 10:52:05 EDT 2017
+#@# Inflation2 rh Thu Oct 12 10:52:05 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 10:52:33 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 10:52:33 EDT 2017
+#@# Sphere rh Thu Oct 12 10:52:33 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 11:57:05 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 11:57:06 EDT 2017
+#@# Surf Reg rh Thu Oct 12 11:57:06 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 12:56:58 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 12:56:58 EDT 2017
+#@# Cortical Parc rh Thu Oct 12 12:56:58 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 12:57:16 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 12:57:16 EDT 2017
+#@# Make Pial Surf rh Thu Oct 12 12:57:16 EDT 2017
+#@# Surf Volume rh Thu Oct 12 13:12:41 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:12:45 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:12:45 EDT 2017
+#@# Surf Volume rh Thu Oct 12 13:12:45 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:12:48 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:12:49 EDT 2017
+#@# Curv .H and .K lh Thu Oct 12 13:12:49 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:13:52 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:13:54 EDT 2017
+#@# Curv .H and .K rh Thu Oct 12 13:13:54 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:14:59 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:15:00 EDT 2017
+#@# Curvature Stats lh Thu Oct 12 13:15:00 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:15:06 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:15:07 EDT 2017
+#@# Curvature Stats rh Thu Oct 12 13:15:07 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:15:12 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:15:13 EDT 2017
+#@# Jacobian white lh Thu Oct 12 13:15:13 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:15:15 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:15:15 EDT 2017
+#@# Jacobian white rh Thu Oct 12 13:15:15 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:15:17 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:15:17 EDT 2017
+#@# AvgCurv lh Thu Oct 12 13:15:17 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:15:19 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:15:20 EDT 2017
+#@# AvgCurv rh Thu Oct 12 13:15:20 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:15:21 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:15:22 EDT 2017
+#@# Cortical ribbon mask Thu Oct 12 13:15:22 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:26:45 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:26:46 EDT 2017
+#@# Parcellation Stats lh Thu Oct 12 13:26:46 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:28:01 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:28:02 EDT 2017
+#@# Parcellation Stats rh Thu Oct 12 13:28:02 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:29:19 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:29:20 EDT 2017
+#@# Cortical Parc 2 lh Thu Oct 12 13:29:20 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:29:40 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:29:41 EDT 2017
+#@# Cortical Parc 2 rh Thu Oct 12 13:29:41 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:30:01 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:30:02 EDT 2017
+#@# Parcellation Stats 2 lh Thu Oct 12 13:30:02 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:30:39 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:30:40 EDT 2017
+#@# Parcellation Stats 2 rh Thu Oct 12 13:30:40 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:31:18 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:31:19 EDT 2017
+#@# Cortical Parc 3 lh Thu Oct 12 13:31:19 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:31:36 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:31:36 EDT 2017
+#@# Cortical Parc 3 rh Thu Oct 12 13:31:36 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:31:51 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:31:52 EDT 2017
+#@# Parcellation Stats 3 lh Thu Oct 12 13:31:52 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:32:31 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:32:32 EDT 2017
+#@# Parcellation Stats 3 rh Thu Oct 12 13:32:32 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:33:11 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:33:12 EDT 2017
+#@# WM/GM Contrast lh Thu Oct 12 13:33:12 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:33:22 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:33:22 EDT 2017
+#@# WM/GM Contrast rh Thu Oct 12 13:33:22 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:33:31 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:33:31 EDT 2017
+#@# Relabel Hypointensities Thu Oct 12 13:33:31 EDT 2017
+recon-all -s sub-02 finished without error at Thu Oct 12 13:34:09 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Thu Oct 12 13:34:09 EDT 2017
+#@# AParc-to-ASeg aparc Thu Oct 12 13:34:09 EDT 2017
