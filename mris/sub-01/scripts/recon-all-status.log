@@ -871,3 +871,9 @@ status file for recon-all
 Tue Oct 10 14:57:16 EDT 2017
 #@# BA_exvivo Labels rh Tue Oct 10 14:57:16 EDT 2017
 recon-all -s sub-01 finished without error at Tue Oct 10 15:02:34 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Wed Oct 25 09:30:59 EDT 2017
+#@# Intensity Normalization2 Wed Oct 25 09:30:59 EDT 2017
