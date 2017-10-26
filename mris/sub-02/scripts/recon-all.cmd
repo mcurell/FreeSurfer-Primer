@@ -788,3 +788,7 @@ Add the -clean-bm flag to recon-all to overwrite brainmask.mgz.\n
 #-----------------------------------------
 #@# AParc-to-ASeg aparc Thu Oct 12 13:34:09 EDT 2017
 \n mri_aparc2aseg --s sub-02 --volmask --aseg aseg.presurf.hypos --relabel mri/norm.mgz mri/transforms/talairach.m3z /Applications/freesurfer/average/RB_all_2016-05-10.vc700.gca mri/aseg.auto_noCCseg.label_intensities.txt \n
+\n\n#---------------------------------
+# New invocation of recon-all Wed Oct 25 15:05:17 EDT 2017 
+\n\n#---------------------------------
+# New invocation of recon-all Thu Oct 26 07:22:39 EDT 2017 
