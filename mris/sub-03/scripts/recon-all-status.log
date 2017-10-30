@@ -406,3 +406,23 @@ Thu Jul 13 14:41:44 EDT 2017
 #@# Intensity Normalization Thu Jul 13 14:45:07 EDT 2017
 #@# Skull Stripping Thu Jul 13 14:47:30 EDT 2017
 recon-all -s sub-03 finished without error at Thu Jul 13 14:47:58 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Mon Oct 30 16:24:22 EDT 2017
+#@# Intensity Normalization2 Mon Oct 30 16:24:22 EDT 2017
+Darwin Macys-iMac.local 16.7.0 Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64 x86_64 i386 iMac16,2 Darwin
+
+recon-all -s sub-03 exited with ERRORS at Mon Oct 30 16:24:22 EDT 2017
+
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Mon Oct 30 16:24:29 EDT 2017
+#@# Intensity Normalization2 Mon Oct 30 16:24:29 EDT 2017
+Darwin Macys-iMac.local 16.7.0 Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64 x86_64 i386 iMac16,2 Darwin
+
+recon-all -s sub-03 exited with ERRORS at Mon Oct 30 16:24:29 EDT 2017
+

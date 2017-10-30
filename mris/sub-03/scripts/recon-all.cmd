@@ -462,3 +462,13 @@ Add the -clean-tal flag to recon-all to overwrite transforms/talairach.xfm\n
 The new brainmask.auto.mgz will not be copied to brainmask.mgz.
 This is done to retain any edits made to brainmask.mgz.
 Add the -clean-bm flag to recon-all to overwrite brainmask.mgz.\n
+\n\n#---------------------------------
+# New invocation of recon-all Mon Oct 30 16:24:17 EDT 2017 
+#--------------------------------------------
+#@# Intensity Normalization2 Mon Oct 30 16:24:22 EDT 2017
+\n mri_normalize -f /Users/macy/Documents/Github/FreeSurfer-Primer/mris/sub-03/tmp/control.dat -mprage -aseg aseg.presurf.mgz -mask brainmask.mgz norm.mgz brain.mgz \n
+\n\n#---------------------------------
+# New invocation of recon-all Mon Oct 30 16:24:28 EDT 2017 
+#--------------------------------------------
+#@# Intensity Normalization2 Mon Oct 30 16:24:29 EDT 2017
+\n mri_normalize -f /Users/macy/Documents/Github/FreeSurfer-Primer/mris/sub-03/tmp/control.dat -mprage -aseg aseg.presurf.mgz -mask brainmask.mgz norm.mgz brain.mgz \n
