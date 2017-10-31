@@ -472,3 +472,13 @@ Add the -clean-bm flag to recon-all to overwrite brainmask.mgz.\n
 #--------------------------------------------
 #@# Intensity Normalization2 Mon Oct 30 16:24:29 EDT 2017
 \n mri_normalize -f /Users/macy/Documents/Github/FreeSurfer-Primer/mris/sub-03/tmp/control.dat -mprage -aseg aseg.presurf.mgz -mask brainmask.mgz norm.mgz brain.mgz \n
+\n\n#---------------------------------
+# New invocation of recon-all Mon Oct 30 16:25:30 EDT 2017 
+#--------------------------------------------
+#@# Intensity Normalization2 Mon Oct 30 16:25:31 EDT 2017
+\n mri_normalize -f /Users/macy/Documents/Github/FreeSurfer-Primer/mris/sub-03/tmp/control.dat -mprage -aseg aseg.presurf.mgz -mask brainmask.mgz norm.mgz brain.mgz \n
+\n\n#---------------------------------
+# New invocation of recon-all Mon Oct 30 16:26:45 EDT 2017 
+#--------------------------------------------
+#@# Intensity Normalization2 Mon Oct 30 16:26:46 EDT 2017
+\n mri_normalize -f /Users/macy/Documents/Github/FreeSurfer-Primer/mris/sub-03/tmp/control.dat -mprage -aseg aseg.presurf.mgz -mask brainmask.mgz norm.mgz brain.mgz \n
