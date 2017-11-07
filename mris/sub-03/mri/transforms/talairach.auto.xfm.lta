@@ -9,7 +9,7 @@ sigma     = 1.0000
 0.000000000000000e+00 0.000000000000000e+00 0.000000000000000e+00 1.000000000000000e+00 
 src volume info
 valid = 1  # volume info valid
-filename = /Volumes/CFMI-CFS/sync/ADS/data/mri/FreeSurfer-Training-Data/sub-03/mri/orig_nu.mgz
+filename = /Users/macy/Documents/GitHub/FreeSurfer-Primer/mris/sub-03/mri/orig_nu.mgz
 volume = 256 256 256
 voxelsize = 1.000000000000000e+00 1.000000000000000e+00 1.000000000000000e+00
 xras   = -1.000000000000000e+00 0.000000000000000e+00 0.000000000000000e+00
@@ -18,7 +18,7 @@ zras   = 0.000000000000000e+00 1.000000000000000e+00 0.000000000000000e+00
 cras   = -2.318443298339844e+00 5.496084594726562e+01 -7.171798706054688e+00
 dst volume info
 valid = 1  # volume info valid
-filename = /Volumes/CFMI-CFS/opt/fs6/average/mni305.cor.mgz
+filename = /Applications/freesurfer/average/mni305.cor.mgz
 volume = 256 256 256
 voxelsize = 1.000000000000000e+00 1.000000000000000e+00 1.000000000000000e+00
 xras   = -1.000000000000000e+00 0.000000000000000e+00 0.000000000000000e+00

@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT sub-02
+START_TIME Fri Nov 3 15:10:52 EDT 2017
+END_TIME Fri Nov 3 18:29:07 EDT 2017
+RUNTIME_HOURS 3.304
+USER macy
+HOST Macys-iMac.local
+PROCESSOR x86_64
+OS Darwin
+UNAME Darwin Macys-iMac.local 16.7.0 Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64 x86_64 i386 iMac16,2 Darwin
+VERSION $Id: FreeSurferEnv.csh,v 1.89 2016/06/09 14:54:31 zkaufman Exp $
+CMDPATH /Applications/freesurfer/bin/recon-all
+CMDARGS -autorecon-pial -s sub-02
