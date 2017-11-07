@@ -936,3 +936,9 @@ status file for recon-all
 Fri Nov  3 22:21:36 EDT 2017
 #@# BA_exvivo Labels rh Fri Nov  3 22:21:36 EDT 2017
 recon-all -s sub-03 finished without error at Fri Nov  3 22:25:33 EDT 2017
+\n\n
+New invocation of recon-all 
+\n\n
+status file for recon-all
+Tue Nov  7 10:09:41 EST 2017
+#@# Mask BFS Tue Nov  7 10:09:41 EST 2017
